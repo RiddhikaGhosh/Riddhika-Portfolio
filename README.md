@@ -4,7 +4,7 @@ A premium, modern portfolio website built with **HTML, CSS & JavaScript**.
 
 ## ✨ Live Preview
 
-🔗 **[Visit Portfolio]()**
+🔗 **[Visit Portfolio](https://riddhikaghosh.github.io/Riddhika-Portfolio/)**
 
 ## 📋 Sections
 
